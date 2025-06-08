@@ -16,10 +16,19 @@ A clean, minimal, and aesthetic To-Do List app built using HTML5, CSS3, and Java
 💡 Dark mode friendly via forced light rendering
 
 Preview
+Starting to add plan
 ![Starting to add plan](https://github.com/user-attachments/assets/ea0911fa-d8aa-4bf1-b12c-4fe9ac863369)
+
+Added plans and checked some
 ![Added plans and checked some](https://github.com/user-attachments/assets/77475d8d-bac9-4fdd-8175-77c8cfc78316)
+
+Gone a delete a plan
 ![Gone a delete a plan](https://github.com/user-attachments/assets/3a4b0b61-bd2c-4b15-b9dd-38a54e5bfb12)
+
+Changing the plan
 ![Changing the plan](https://github.com/user-attachments/assets/5135290e-f31e-40e3-8863-ec185673c354)
+
+Done and Checked all to-do list and Output
 ![Done and Checked all to-do list and output](https://github.com/user-attachments/assets/a34803de-687e-4bfd-b12e-b5afc6136ae4)
 
 📁 to-do-list/
