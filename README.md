@@ -16,6 +16,7 @@ A clean, minimal, and aesthetic To-Do List app built using HTML5, CSS3, and Java
 💡 Dark mode friendly via forced light rendering
 
 Preview
+
 Starting to add plan
 ![Starting to add plan](https://github.com/user-attachments/assets/ea0911fa-d8aa-4bf1-b12c-4fe9ac863369)
 
